@@ -1,0 +1,7 @@
+{
+  "name": "saqar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
